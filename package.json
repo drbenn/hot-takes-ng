@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "start:app:dev": "./scripts/start.sh"
+  },
+  "private": true,
+  "dependencies": {
+  }
+}
