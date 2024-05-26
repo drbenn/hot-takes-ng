@@ -1,0 +1,711 @@
+{"context":"RoutesResolver","level":"info","message":"AppController {/hot-takes-cron-server}:"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/hot-takes-cron-server, GET} route"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/hot-takes-cron-server/contributors, GET} route"}
+{"context":"NestApplication","level":"info","message":"Nest application successfully started"}
+{"context":"RoutesResolver","level":"info","message":"AppController {/hot-takes-cron-server}:"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/hot-takes-cron-server, GET} route"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/hot-takes-cron-server/contributors, GET} route"}
+{"context":"NestApplication","level":"info","message":"Nest application successfully started"}
+{"context":"RoutesResolver","level":"info","message":"AppController {/hot-takes-cron-server}:"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/hot-takes-cron-server, GET} route"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/hot-takes-cron-server/contributors, GET} route"}
+{"context":"NestApplication","level":"info","message":"Nest application successfully started"}
+{"context":"RoutesResolver","level":"info","message":"AppController {/hot-takes-cron-server}:"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/hot-takes-cron-server, GET} route"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/hot-takes-cron-server/contributors, GET} route"}
+{"context":"NestApplication","level":"info","message":"Nest application successfully started"}
+{"context":"logging stuff! Thu May 02 2024 17:04:00 GMT-0400 (Eastern Daylight Time) \n\n        NEW LINE YOLO\n        ","level":"info","message":"log"}
+{"context":"logging stuff! Thu May 02 2024 17:04:30 GMT-0400 (Eastern Daylight Time) \n\n        NEW LINE YOLO\n        ","level":"info","message":"log"}
+{"context":"RoutesResolver","level":"info","message":"AppController {/hot-takes-cron-server}:"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/hot-takes-cron-server, GET} route"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/hot-takes-cron-server/contributors, GET} route"}
+{"context":"NestApplication","level":"info","message":"Nest application successfully started"}
+{"context":"logging stuff! Thu May 02 2024 17:11:00 GMT-0400 (Eastern Daylight Time) \n\n        NEW LINE YOLO\n        ","level":"info","message":"log"}
+{"context":"RoutesResolver","level":"info","message":"AppController {/hot-takes-cron-server}:"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/hot-takes-cron-server, GET} route"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/hot-takes-cron-server/contributors, GET} route"}
+{"context":"NestApplication","level":"info","message":"Nest application successfully started"}
+{"context":"logging stuff! Thu May 02 2024 17:12:30 GMT-0400 (Eastern Daylight Time) \n\n        NEW LINE YOLO\n        ","level":"info","message":"log"}
+{"context":"logging stuff! Thu May 02 2024 17:13:00 GMT-0400 (Eastern Daylight Time) \n\n        NEW LINE YOLO\n        ","level":"info","message":"log"}
+{"context":"RoutesResolver","level":"info","message":"AppController {/hot-takes-cron-server}:"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/hot-takes-cron-server, GET} route"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/hot-takes-cron-server/contributors, GET} route"}
+{"context":"NestApplication","level":"info","message":"Nest application successfully started"}
+{"context":"logging stuff! Thu May 02 2024 17:20:30 GMT-0400 (Eastern Daylight Time) \n\n        NEW LINE YOLO\n        ","level":"info","message":"log"}
+{"level":"error","message":"LOGGER APP SERVICE"}
+{"level":"info","message":"LOGGER APP SERVICE"}
+{"level":"warn","message":"LOGGER APP SERVICE"}
+{"level":"info","message":"LOGGER APP SERVICE"}
+{"level":"error","message":"info"}
+{"level":"info","message":"LOGGER APP SERVICE"}
+{"level":"info","message":"LOGGER APP SERVICE"}
+{"level":"info","message":"LOGGER APP SERVICE"}
+{"level":"info","message":"LOGGER APP SERVICE"}
+{"level":"info","message":"LOGGER CRON SERVICE"}
+{"level":"info","message":"LOGGER CRON SERVICE"}
+{"level":"info","message":"LOGGER CRON SERVICE"}
+{"level":"info","message":"LOGGER CRON SERVICE"}
+{"level":"info","message":"LOGGER CRON SERVICE"}
+{"level":"info","message":"LOGGER CRON SERVICE"}
+{"level":"info","message":"LOGGER CRON SERVICE"}
+{"level":"info","message":"Application Initialized Fri May 03 2024 11:51:11 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron job executed Fri May 03 2024 11:51:20 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Application Initialized Fri May 03 2024 11:51:29 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron job executed:  Fri May 03 2024 11:51:30 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron job executed:  Fri May 03 2024 11:51:40 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Application Initialized:  Fri May 03 2024 11:51:45 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron job executed:  Fri May 03 2024 11:51:50 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron job executed:  Fri May 03 2024 11:52:00 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron job executed:  Fri May 03 2024 11:52:10 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron job executed:  Fri May 03 2024 11:52:20 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron job executed:  Fri May 03 2024 11:52:30 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Application Initialized:  Fri May 03 2024 11:57:49 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron job executed:  Fri May 03 2024 11:57:50 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"delayedShuffledContributors:  [object Object],[object Object],[object Object]"}
+{"level":"info","message":"headlines:  [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"}
+{"level":"info","message":"contributorsPromptData:  [object Object],[object Object],[object Object]"}
+{"level":"info","message":"Cron job executed:  Fri May 03 2024 11:58:00 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"delayedShuffledContributors:  [object Object],[object Object],[object Object]"}
+{"level":"info","message":"headlines:  [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"}
+{"level":"info","message":"contributorsPromptData:  [object Object],[object Object],[object Object]"}
+{"level":"info","message":"Cron job executed:  Fri May 03 2024 11:58:10 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"delayedShuffledContributors:  [object Object],[object Object],[object Object]"}
+{"level":"info","message":"headlines:  [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"}
+{"level":"info","message":"contributorsPromptData:  [object Object],[object Object],[object Object]"}
+{"level":"info","message":"Application Initialized:  Fri May 03 2024 11:58:45 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron job executed:  Fri May 03 2024 11:58:50 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"delayedShuffledContributors:  [object Object],[object Object],[object Object]"}
+{"level":"info","message":"headlines:  [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"}
+{"level":"info","message":"contributorsPromptData:  [object Object],[object Object],[object Object]"}
+{"level":"info","message":"Cron job executed:  Fri May 03 2024 11:59:00 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"delayedShuffledContributors:  [object Object],[object Object],[object Object]"}
+{"level":"info","message":"headlines:  [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"}
+{"level":"info","message":"contributorsPromptData:  [object Object],[object Object],[object Object]"}
+{"level":"info","message":"Database Response for successful post insert for contributor_id: 2 on Fri May 03 2024 11:59:02 GMT-0400 (Eastern Daylight Time). \n\n      response: [object Object], \n\n      post: Can you believe this? Colombia\\'s cutting ties with Israel over the Gaza war? Really? Like, I get it, but come on, is this the best way to handle things? Next thing you know, I\\'ll be hearing about tensions over bagel toppings. Oy vey!\n      "}
+{"level":"info","message":"Database Response for successful post insert for contributor_id: 1 on Fri May 03 2024 11:59:03 GMT-0400 (Eastern Daylight Time). \n\n      response: [object Object], \n\n      post: Whoa, seems like the Secret Service agent had a \\'distressing\\' day! 🕶️ Can\\'t be Zoolander-ing around with that kind of behavior. Let\\'s hope for smooth sailing for VP Harris in Wisconsin! #SecretServiceShuffle #KamalaHarris #WisconsinCampaign\n      "}
+{"level":"info","message":"Database Response for successful post insert for contributor_id: 2 on Fri May 03 2024 11:59:09 GMT-0400 (Eastern Daylight Time). \n\n      response: [object Object], \n\n      post: I mean, can you believe this? Arrest warrants over the Gaza war? What\\'s next, a ticket for double-parking at a peace conference? It\\'s like the world got stuck on the wrong channel and forgot to change it back. #ICC #GazaWar #Ridiculous\n      "}
+{"level":"info","message":"Cron job executed:  Fri May 03 2024 11:59:10 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"delayedShuffledContributors:  [object Object],[object Object],[object Object]"}
+{"level":"info","message":"Database Response for successful post insert for contributor_id: 1 on Fri May 03 2024 11:59:10 GMT-0400 (Eastern Daylight Time). \n\n      response: [object Object], \n\n      post: Hey there, friends! Just heard about the arrests at the campus protests. Let\\'s remember to stay peaceful and respectful in our pursuit of change. We can make a difference without resorting to violence. Sending good vibes to everyone involved. Stay cool, stay positive. #PeacefulProtests #ChangeIsPossible\n      "}
+{"level":"info","message":"headlines:  [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"}
+{"level":"info","message":"contributorsPromptData:  [object Object],[object Object],[object Object]"}
+{"level":"info","message":"Database Response for successful post insert for contributor_id: 3 on Fri May 03 2024 11:59:12 GMT-0400 (Eastern Daylight Time). \n\n      response: [object Object], \n\n      post: In the vast cosmic ocean, we witness the spectacle of Trump\\'s turbulent legal battles. Todd Blanche, a star in his own right, now caught in the gravitational pull of the former president\\'s rage. We are but pale blue dots in the cosmic drama of the hush-money trial.\n      "}
+{"level":"info","message":"Application Initialized:  Fri May 03 2024 12:14:13 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron job executed:  Fri May 03 2024 12:14:20 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"delayedShuffledContributors:  [object Object],[object Object],[object Object]"}
+{"level":"info","message":"headlines:  Losing a Foot Never Held Her Back, Until She Tried to Join the Military,Missouri and South Dakota Move Toward Abortion Rights Ballot Questions,Attack on U.C.L.A. Encampment Stirs Fears of Clashes Elsewhere,Taking Cues From Students, U.C.L.A. Faculty Members Join the Protests,Police cleared NYU and New School protest encampments,The Death of a Treaty Could Be a Lifesaver for Taiwan,Crosstown Rivals Publicly Criticized Over Campus Protests,Biden to Honor Prominent Democrats With Presidential Medal of Freedom,Biden Will Expand Obamacare to Immigrants With DACA Protections,Campus Protests Over Gaza Open a New Line of Attack for GOP in 2024 Election,U.S. Approved More Weapons for Ukraine. Now It’s a Race Against Time.,Jill Biden Hosts Teachers at Awards Dinner, With a Bit of Pomp,University of California Workers May Strike After UCLA Raid,Jury in Federal Lawsuit Deadlocks on Abu Ghraib Torture Allegations,Conception Captain Is Sentenced to 4 Years in Deadly Boat Fire,Biden Appeals to North Carolina With Program to Replace Lead Pipes,U.C.L.A. Tries to Reconcile a Week of Turbulent Events,Trump’s Lawyers Turn Up the Heat,Bill to Combat Antisemitism on Campuses Prompts Backlash From the Right,Former Pennsylvania Nurse Gets Life Sentence in Insulin Deaths,Flooding From Heavy Rain Prompts Mandatory Evacuations in East Texas,Biden Calls Japan and India ‘Xenophobic’ in Defending U.S. Immigration,Peggy Mellon Hitchcock, Who Helped Timothy Leary Turn On, Dies at 90,"}
+{"level":"info","message":"contributorsPromptData:  id: 3, story: [object Object]delay(ms): 2661  |  id: 2, story: [object Object]delay(ms): 24161  |  id: 1, story: [object Object]delay(ms): 3526  |  "}
+{"level":"info","message":"Database Response for successful post insert for contributor_id: 3 on Fri May 03 2024 12:14:24 GMT-0400 (Eastern Daylight Time). \n\n      responseResults: [object Object] \n\n      post: The majestic cosmos beckons for justice as the workers of the University of California stand up to fight for their rights. Let us unite in the grand symphony of solidarity and support their quest for fairness and respect. #WorkersRights #UCStrike\n      "}
+{"level":"info","message":"Database Response for successful post insert for contributor_id: 1 on Fri May 03 2024 12:14:25 GMT-0400 (Eastern Daylight Time). \n\n      responseResults: [object Object] \n\n      post: Hey there, folks! 🌟 Seems like there\\'s some controversy brewing over a bill to combat antisemitism on campuses. Let\\'s spread love and understanding instead of hate, ya know? We can all learn from each other\\'s perspectives and live in harmony. Stay positive, my friends! 😎 #SpreadLoveNotHate\n      "}
+{"level":"info","message":"Cron job executed:  Fri May 03 2024 12:14:30 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"delayedShuffledContributors:  [object Object],[object Object],[object Object]"}
+{"level":"info","message":"headlines:  Losing a Foot Never Held Her Back, Until She Tried to Join the Military,Missouri and South Dakota Move Toward Abortion Rights Ballot Questions,Attack on U.C.L.A. Encampment Stirs Fears of Clashes Elsewhere,Taking Cues From Students, U.C.L.A. Faculty Members Join the Protests,Police cleared NYU and New School protest encampments,The Death of a Treaty Could Be a Lifesaver for Taiwan,Crosstown Rivals Publicly Criticized Over Campus Protests,Biden to Honor Prominent Democrats With Presidential Medal of Freedom,Biden Will Expand Obamacare to Immigrants With DACA Protections,Campus Protests Over Gaza Open a New Line of Attack for GOP in 2024 Election,U.S. Approved More Weapons for Ukraine. Now It’s a Race Against Time.,Jill Biden Hosts Teachers at Awards Dinner, With a Bit of Pomp,University of California Workers May Strike After UCLA Raid,Jury in Federal Lawsuit Deadlocks on Abu Ghraib Torture Allegations,Conception Captain Is Sentenced to 4 Years in Deadly Boat Fire,Biden Appeals to North Carolina With Program to Replace Lead Pipes,U.C.L.A. Tries to Reconcile a Week of Turbulent Events,Trump’s Lawyers Turn Up the Heat,Bill to Combat Antisemitism on Campuses Prompts Backlash From the Right,Former Pennsylvania Nurse Gets Life Sentence in Insulin Deaths,Flooding From Heavy Rain Prompts Mandatory Evacuations in East Texas,Biden Calls Japan and India ‘Xenophobic’ in Defending U.S. Immigration,Peggy Mellon Hitchcock, Who Helped Timothy Leary Turn On, Dies at 90,"}
+{"level":"info","message":"contributorsPromptData:  id: 2, story: [object Object]delay(ms): 25274  |  id: 3, story: [object Object]delay(ms): 9574  |  id: 1, story: [object Object]delay(ms): 2128  |  "}
+{"level":"info","message":"Database Response for successful post insert for contributor_id: 1 on Fri May 03 2024 12:14:34 GMT-0400 (Eastern Daylight Time). \n\n      responseResults: [object Object] \n\n      post: Hey guys, let\\'s support Hannah Cvancara and others pushing to change the rules for amputees wanting to join the military. Who says missing a foot should hold you back from serving your country? Let\\'s make the military more inclusive and give everyone a chance to serve! 🇺🇸 #ChangeTheRules\n      "}
+{"level":"info","message":"Cron job executed:  Fri May 03 2024 12:14:40 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"delayedShuffledContributors:  [object Object],[object Object],[object Object]"}
+{"level":"info","message":"headlines:  Brown University Students and Officials Make Deal to Dismantle Encampment,Paul Auster, the Patron Saint of Literary Brooklyn, Dies at 77,How Trump’s Rhetoric at Rallies Has Escalated ,Trump’s Trial Could Bring a Rarity: Consequences for His Words,Brittney Griner Talks Candidly About Her New Book, Russia and Recovery,How to Reboot Free Speech on Campus,Charlotte Shooting: 4 Officers Dead, 4 Wounded as U.S. Marshals Serve Warrant,5 Exercises for a Better Sex Life,Biden Lets Trump Jokes Fly at White House Correspondents Dinner,Giuliani’s Bankruptcy Creditors Demand to Know His Spending,The Comfortable Problem of Mid TV,White House Correspondents’ Dinner Red Carpet Photos: See the Best Dressed,2024 Was the Year That Broke College Admissions,More Than 200 Protesters Arrested at 4 U.S. Campuses,Law Firm Defending Trump Seeks to Withdraw From a Long-Running Case,Judge Merchan Holds Trump in Contempt for Violating Gag Order in Hush-Money Trial,Arizona Lawmakers Repeal 1864 Abortion Ban, Creating Rift on the Right,Echoing Their Client, Trump’s Lawyers Pursue an Absolutist Defense,Anne Hathaway on ‘The Idea of You’ and Letting Go of Expectations,"}
+{"level":"info","message":"contributorsPromptData:  id: 3, story: [object Object]delay(ms): 14531  |  id: 2, story: [object Object]delay(ms): 1511  |  id: 1, story: [object Object]delay(ms): 20295  |  "}
+{"level":"info","message":"Database Response for successful post insert for contributor_id: 3 on Fri May 03 2024 12:14:41 GMT-0400 (Eastern Daylight Time). \n\n      responseResults: [object Object] \n\n      post: In the vast cosmos of American politics, Biden bestows the Medal of Freedom upon his allies. A star-studded lineup of Pelosi, Clyburn, and Kerry shines bright. A celestial celebration of democratic luminaries. #MedalofFreedom #Democracy\n      "}
+{"level":"info","message":"Application Initialized:  Fri May 03 2024 15:27:25 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Application Initialized:  Sat May 04 2024 12:52:53 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Application Initialized:  Sat May 04 2024 19:28:14 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 04 2024 19:28:20 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 04 2024 19:28:30 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 04 2024 19:28:40 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 04 2024 19:28:50 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 1 min in APP SERVICE:  Sat May 04 2024 19:29:00 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 04 2024 19:29:00 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 04 2024 19:29:10 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 04 2024 19:29:20 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 04 2024 19:29:30 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 04 2024 19:29:40 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 04 2024 19:29:50 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 1 min in APP SERVICE:  Sat May 04 2024 19:30:00 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 04 2024 19:30:00 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron job  every 5 min executed:  Sat May 04 2024 19:30:00 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"delayedShuffledContributors:  id: 1 | delay: 218854"}
+{"level":"info","message":"headlines:  Rishi Sunak’s Dismal Task: Leading U.K. Conservatives to Likely Defeat,Family Values or Fighting Valor? Russia Grapples With Women’s Wartime Role.,The Bleak Life in Captivity of Niger’s Deposed President, Mohamed Bazoum,Sadiq Khan Re-elected Mayor of London in Latest Win for Labour Party,Drones Changed This Civil War, and Linked Rebels to the World,Canadian Police Arrest 3 in Killing of Hardeep Singh Nijjar,After 3 Tourists Go Missing, Bodies Are Found in Baja California,Israel, Gaza and the Law on Starvation in War,Panama’s 2024 Election: What to Know,How Does the World See the U.S. Campus Protests?,Israeli Officials Weigh Sharing Power With Arab States in Postwar Gaza,With Pressure Rising for a Gaza Cease-Fire, Turkey Cuts Trade With Israel,Haiti’s Police Force Is ‘Begging for Help’ Against Ruthless Gangs,Voters Swing to Labour in English Local Elections: Key Takeaways,Charges Against Cuellar Lay Bare Azerbaijan’s Influence Attempts,Parts of Gaza in ‘Full-Blown Famine,’ U.N. Aid Official Says,Canadian Arrests Highlight Alleged Gang Role in India’s Intelligence Operations,Investor’s Lawsuit Accuses 777 Partners of $600 Million Fraud,Parts of Gaza Are in Famine, World Food Program Chief Says,Moving Target,Lessons From the Front Lines of Canada’s Fentanyl Crisis,Was the Stone Age Really the Wood Age?,Henry Cuellar, Texas Representative, and His Wife Indicted on Bribery Charges,A Gaza Doctor Has Died in Israeli Custody, Palestinian Groups Say,Gas Stove Pollution Risk Is Greatest in Smaller Homes, Study Finds,Liberia Moves to Create War Crimes Court, Decades After Civil Wars Ended,Champions League: Bayern Munich, Dortmund and the Lure of the Past,The Death of a Treaty Could Be a Lifesaver for Taiwan,Pro-Palestinian Student Protests Spread to Australia, France, U.K. and Elsewhere,Iran Says It Has Released Israel-Linked Ship’s Crew It Detained,Some NASA Satellites Will Soon Stop Sending Data Back to Earth,Noisy, Gaudy and Spiritual: Young Pilgrims Embrace an Ancient Goddess,Thousands Believe Covid Vaccines Harmed Them. Is Anyone Listening?,The Premier League Title Race the Whole World Is Watching,U.K. Local Elections Show Sharp Setbacks for Conservatives,‘Dead Poets Society’ Has Some Distinctly Australian Relevance,Friday Briefing,Rebuilding All Destroyed Gaza Homes Could Take 80 Years, U.N. Report Says,Friday Briefing: Hamas Considers Israel’s Proposal,Hamas Studies a Gaza Cease-Fire Offer From Israel, and Hints at Progress,Turkey Halts Trade With Israel Amid Deteriorating Relations,Biden Calls Japan and India ‘Xenophobic’ in Defending U.S. Immigration,Torrential Rain in Brazil Kills at Least 29, With More Missing,John Swinney Looks Likely to Be Scotland’s Next First Minister,F.T.C. Clears Exxon Mobil’s Acquisition of Pioneer Natural Resources,Global Growth Forecast Is Lifted but Risks Loom, O.E.C.D. Says,Protests Swell in Georgia Over ‘Foreign Interests’ Bill,U.S. Accuses Russia of Using Chemical Weapons in Ukraine,A Portrait Artist Fit for a King (but Not a President),Thursday Briefing,5 Takeaways From the Times Interview of Brittney Griner,U.K. Conservatives Hold Their Breath: How Bad Will Local Elections Be?,U.S. and Israel Struggle With Clashing Visions on Ending Gaza War,U.K. Local Elections, Explained,Blinken Turns Up Pressure on Hamas to Accept Gaza Cease-Fire Deal,Giant Pandas Are Returning to San Diego, China Announces,Thursday Briefing: Police Deployed at U.S. Campuses,Colombia Will Sever Ties With Israel Over Gaza War,U.S. Imposes Sanctions on Chinese Companies for Aiding Russia’s War Effort,Flooding in a Kenyan Natural Reserve Forces Tourist Evacuation,Record Number of Writers Were Jailed Globally in 2023, PEN America Says,"}
+{"level":"info","message":"contributorsPromptData:  id: 1, story: Canadian Police Arrest 3 in Killing of Hardeep Singh Nijjardelay(ms): 218854  |  "}
+{"level":"info","message":"Database Response for successful post insert for contributor_id: 1 on Sat May 04 2024 19:30:01 GMT-0400 (Eastern Daylight Time). \n\n      responseResults: [object Object] \n\n      post: Hey there friends, Bowen here. 🍁 Just heard about the arrests in the Hardeep Singh Nijjar case. Quite the diplomatic dance, huh? Let\\'s hope for peace and justice to prevail. Stay positive, amigos! #HardeepSinghNijjar #CanadaIndiaRelations\n      "}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 04 2024 19:30:10 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 04 2024 19:30:20 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 04 2024 19:30:30 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 04 2024 19:30:40 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 04 2024 19:30:50 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 1 min in APP SERVICE:  Sat May 04 2024 19:31:00 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 04 2024 19:31:00 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 04 2024 19:31:10 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 04 2024 19:31:20 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 04 2024 19:31:30 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 04 2024 19:31:40 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 04 2024 19:31:50 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 04 2024 19:32:00 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 1 min in APP SERVICE:  Sat May 04 2024 19:32:00 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 04 2024 19:32:10 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 04 2024 19:32:20 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 04 2024 19:32:30 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 04 2024 19:32:40 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 04 2024 19:32:50 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Application Initialized:  Sat May 18 2024 19:41:15 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 19:41:20 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 19:41:30 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 19:41:40 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 19:41:50 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 19:42:00 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 19:42:10 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 19:42:20 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 19:42:30 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 19:42:40 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 19:42:50 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 19:43:00 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 19:43:10 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 19:43:20 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 19:43:30 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 19:43:40 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 19:43:50 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 19:44:00 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 19:44:10 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 19:44:20 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 19:44:30 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 19:44:40 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 19:44:50 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 19:45:00 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 19:45:10 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 19:45:20 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 19:45:30 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 19:45:40 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 19:45:50 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 19:46:00 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 19:46:10 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 19:46:20 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 19:46:30 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 19:46:40 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 19:46:50 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 19:47:00 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 19:47:10 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 19:47:20 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 19:47:30 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 19:47:40 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 19:47:50 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 19:48:00 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 19:48:10 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 19:48:20 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 19:48:30 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 19:48:40 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 19:48:50 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 19:49:00 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 19:49:10 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 19:49:20 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 19:49:30 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 19:49:40 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 19:49:50 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 19:50:00 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 19:50:10 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 19:50:20 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 19:50:30 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 19:50:40 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 19:50:50 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 19:51:00 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 19:51:10 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 19:51:20 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 19:51:30 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 19:51:40 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 19:51:50 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 19:52:00 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 19:52:10 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 19:52:20 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 19:52:30 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 19:52:40 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 19:52:50 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 19:53:00 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 19:53:10 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 19:53:20 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 19:53:30 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 19:53:40 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 19:53:50 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 19:54:00 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 19:54:10 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 19:54:20 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 19:54:30 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 19:54:40 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 19:54:50 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 19:55:00 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 19:55:10 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 19:55:20 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 19:55:30 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 19:55:40 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 19:55:50 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 19:56:00 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 19:56:10 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 19:56:20 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 19:56:30 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 19:56:40 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 19:56:50 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 19:57:00 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 19:57:10 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 19:57:20 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 19:57:30 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 19:57:40 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 19:57:50 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 19:58:00 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 19:58:10 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 19:58:20 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 19:58:30 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 19:58:40 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 19:58:50 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 19:59:00 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 19:59:10 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 19:59:20 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 19:59:30 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 19:59:40 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 19:59:50 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:00:00 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:00:10 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:00:20 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:00:30 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:00:40 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:00:50 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:01:00 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:01:10 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:01:20 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:01:30 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:01:40 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:01:50 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:02:00 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:02:10 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:02:20 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:02:30 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:02:40 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:02:50 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:03:00 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:03:10 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:03:20 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:03:30 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:03:40 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:03:50 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:04:00 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:04:10 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:04:20 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:04:30 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:04:40 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:04:50 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:05:00 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:05:10 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:05:20 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:05:30 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:05:40 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:05:50 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:06:00 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:06:10 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:06:20 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:06:30 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:06:40 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:06:50 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:07:00 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:07:10 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:07:20 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:07:30 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:07:40 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:07:50 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:08:00 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:08:10 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:08:20 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:08:30 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:08:40 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:08:50 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:09:00 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:09:10 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:09:20 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:09:30 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:09:40 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:09:50 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:10:00 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:10:10 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:10:20 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:10:30 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:10:40 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:10:50 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:11:00 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:11:10 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:11:20 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:11:30 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:11:40 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:11:50 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:12:00 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:12:10 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:12:20 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:12:30 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:12:40 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:12:50 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:13:00 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:13:10 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:13:20 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:13:30 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:13:40 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:13:50 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:14:00 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:14:10 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:14:20 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:14:30 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:14:40 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:14:50 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:15:00 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:15:10 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:15:20 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:15:30 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:15:40 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:15:50 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:16:00 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:16:10 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:16:20 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:16:30 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:16:40 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:16:50 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:17:00 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:17:10 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:17:20 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:17:30 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:17:40 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:17:50 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:18:00 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:18:10 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:18:20 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:18:30 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:18:40 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:18:50 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:19:00 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:19:10 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:19:20 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:19:30 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:19:40 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:19:50 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:20:00 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:20:10 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:20:20 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:20:30 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:20:40 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:20:50 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:21:00 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:21:10 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:21:20 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:21:30 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:21:40 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:21:50 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:22:00 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:22:10 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:22:20 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:22:30 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:22:40 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:22:50 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:23:00 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:23:10 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:23:20 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:23:30 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:23:40 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:23:50 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:24:00 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:24:10 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:24:20 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:24:30 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:24:40 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:24:50 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:25:00 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:25:10 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:25:20 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:25:30 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:25:40 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:25:50 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:26:00 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:26:10 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:26:20 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:26:30 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:26:40 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:26:50 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:27:00 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:27:10 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:27:20 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:27:30 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:27:40 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:27:50 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:28:00 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:28:10 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:28:20 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:28:30 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:28:40 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:28:50 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:29:00 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:29:10 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:29:20 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:29:30 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:29:40 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:29:50 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:30:00 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:30:10 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:30:20 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:30:30 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:30:40 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:30:50 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:31:00 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:31:10 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:31:20 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:31:30 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:31:40 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:31:50 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:32:00 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:32:10 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:32:20 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:32:30 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:32:40 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:32:50 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:33:00 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:33:10 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:33:20 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:33:30 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:33:40 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:33:50 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:34:00 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:34:10 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:34:20 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:34:30 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:34:40 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:34:50 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:35:00 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:35:10 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:35:20 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:35:30 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:35:40 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:35:50 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:36:00 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:36:10 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:36:20 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:36:30 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:36:40 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:36:50 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:37:00 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:37:10 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:37:20 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:37:30 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:37:40 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:37:50 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:38:00 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:38:10 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:38:20 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:38:30 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:38:40 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:38:50 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:39:00 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:39:10 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:39:20 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:39:30 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:39:40 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:39:50 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:40:00 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:40:10 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:40:20 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:40:30 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:40:40 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:40:50 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:41:00 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:41:10 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:41:20 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:41:30 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:41:40 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:41:50 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:42:00 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:42:10 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:42:20 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:42:30 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:42:40 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:42:50 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:43:00 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:43:10 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:43:20 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:43:30 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:43:40 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:43:50 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:44:00 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:44:10 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:44:20 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:44:30 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:44:40 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:44:50 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:45:00 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:45:10 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:45:20 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:45:30 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:45:40 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:45:50 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:46:00 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:46:10 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:46:20 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:46:30 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:46:40 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:46:50 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:47:00 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:47:10 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:47:20 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:47:30 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:47:40 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:47:50 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:48:00 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:48:10 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:48:20 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:48:30 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:48:40 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:48:50 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:49:00 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:49:10 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:49:20 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:49:30 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:49:40 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:49:50 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:50:00 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:50:10 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:50:20 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:50:30 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:50:40 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:50:50 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:51:00 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:51:10 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:51:20 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:51:30 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:51:40 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:51:50 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:52:00 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:52:10 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:52:20 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:52:30 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:52:40 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:52:50 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:53:00 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:53:10 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:53:20 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:53:30 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:53:40 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:53:50 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:54:00 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:54:10 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:54:20 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:54:30 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:54:40 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:54:50 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:55:00 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:55:10 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:55:20 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:55:30 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:55:40 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:55:50 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:56:00 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:56:10 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:56:20 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:56:30 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:56:40 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:56:50 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:57:00 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:57:10 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:57:20 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:57:30 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:57:40 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:57:50 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:58:00 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:58:10 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:58:20 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:58:30 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:58:40 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:58:50 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:59:00 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:59:10 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:59:20 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:59:30 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:59:40 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 20:59:50 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 21:00:00 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 21:00:10 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 21:00:20 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 21:00:30 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 21:00:40 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 21:00:50 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 21:01:00 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 21:01:10 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 21:01:20 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 21:01:30 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 21:01:40 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 21:01:50 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 21:02:00 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 21:02:10 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 21:02:20 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 21:02:30 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 21:02:40 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 21:02:50 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 21:03:00 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 21:03:10 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 21:03:20 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 21:03:30 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 21:03:40 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 21:03:50 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 21:04:00 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 21:04:10 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 21:04:20 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 21:04:30 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 21:04:40 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 21:04:50 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 21:05:00 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 21:05:10 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 21:05:20 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 21:05:30 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 21:05:40 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 21:05:50 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 21:06:00 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 21:06:10 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 21:06:20 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 21:06:30 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 21:06:40 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 21:06:50 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 21:07:00 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 21:07:10 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 21:07:20 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 21:07:30 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 21:07:40 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 21:07:50 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 21:08:00 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 21:08:10 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 21:08:20 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 21:08:30 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 21:08:40 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 21:08:50 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 21:09:00 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 21:09:10 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 21:09:20 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 21:09:30 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 21:09:40 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 21:09:50 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 21:10:00 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 21:10:10 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 21:10:20 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 21:10:30 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 21:10:40 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 21:10:50 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 21:11:00 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 21:11:10 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 21:11:20 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 21:11:30 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 21:11:40 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 21:11:50 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 21:12:00 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 21:12:10 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 21:12:20 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 21:12:30 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 21:12:40 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 21:12:50 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 21:13:00 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 21:13:10 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 21:13:20 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 21:13:30 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 21:13:40 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 21:13:50 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 21:14:00 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 21:14:10 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 21:14:20 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 21:14:30 GMT-0400 (Eastern Daylight Time)"}
+{"level":"info","message":"Cron every 10 seconds in APP SERVICE:  Sat May 18 2024 21:14:40 GMT-0400 (Eastern Daylight Time)"}
