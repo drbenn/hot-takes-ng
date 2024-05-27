@@ -19,6 +19,11 @@
 9. Run Npm install in node.js web application
 10. Start App - Application should now be running at https://danbennett.dev/angular-ssr-boilerplate
 
+# Spartan UI
+- Add primitive components with 'ng g @spartan-ng/cli:ui'
+- Use the folder 'spartan-components'
+- space selects components, enter completes command for install
+
 # Ui
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.1.
