@@ -1,27 +1,28 @@
 import { HttpClient } from '@angular/common/http';
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit, WritableSignal, signal } from '@angular/core';
+import { ContributorsApiService } from './services/contributors-api.service';
+import { take } from 'rxjs';
+import { Contributor } from './types/contributors.types';
+import { JsonPipe } from '@angular/common';
 
 @Component({
   selector: 'app-contributors',
   standalone: true,
-  imports: [],
+  imports: [JsonPipe],
   templateUrl: './contributors.component.html',
   styleUrl: './contributors.component.scss',
   providers: [HttpClient]
 })
 export class ContributorsComponent implements OnInit {
-  // private apiUrl: string = environment.apiUrl;
-  private apiUrl: string = 'http://localhost:3000/hot-takes-api-v1/contributors';
+  protected contributorsSignal: WritableSignal<Contributor[] | undefined> = signal(undefined);
 
-  constructor(private httpClient: HttpClient) {}
+  constructor(private contributorsApiService: ContributorsApiService) {}
 
   ngOnInit(): void {
-    // this.httpClient.get(this.apiUrl) as Observable<any>;
-    this.httpClient.get(this.apiUrl).subscribe((thing: any) => {
-      console.log('subscriber');
-      // console.log(thing);
-      
-      
+    this.contributorsApiService.getAllContributors()
+    .pipe(take(1)).subscribe({
+      next: (contributors: Contributor[]) => this.contributorsSignal.set(contributors),
+      error: (error: Error) => console.error('Error Fetching Contributors: ', error)
     });
-  }
+  };
 }

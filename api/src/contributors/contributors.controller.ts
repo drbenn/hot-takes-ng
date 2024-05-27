@@ -17,7 +17,7 @@ export class ContributorsController {
       if (!contributors) {
         // TODO: handle error
       } else {
-        res.status(HttpStatus.OK).send({message: 'GET contributors successful', data: JSON.stringify(contributors)});
+        res.status(HttpStatus.OK).send(JSON.stringify(contributors));
       };
   };
 }

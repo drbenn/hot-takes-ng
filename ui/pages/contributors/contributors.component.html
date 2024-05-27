@@ -1,1 +1,9 @@
-<p>contributors works!</p>
+<main>
+
+  @if (contributorsSignal()) {
+    @for (contributor of contributorsSignal(); track $index) {
+      {{ contributor.name }}
+    }
+  }
+
+</main>
