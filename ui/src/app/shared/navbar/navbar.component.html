@@ -25,6 +25,15 @@
 
     <div class="flex text-2xl text-white sm:hidden">
       SHEET ICON
+      <button (click)="sidebarVisible = true" icon="pi pi-arrow-right">CLICK</button>
     </div>
   </nav>
 </header>
+
+
+<p-sidebar [(visible)]="sidebarVisible">
+  <h3>Sidebar</h3>
+  <p>
+      Lorem ipsum dolor sit amet...
+  </p>
+</p-sidebar>

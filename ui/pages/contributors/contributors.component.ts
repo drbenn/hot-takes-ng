@@ -19,7 +19,7 @@ export class ContributorsComponent implements OnInit {
     // this.httpClient.get(this.apiUrl) as Observable<any>;
     this.httpClient.get(this.apiUrl).subscribe((thing: any) => {
       console.log('subscriber');
-      console.log(thing);
+      // console.log(thing);
       
       
     });
