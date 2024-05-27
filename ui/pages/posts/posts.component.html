@@ -1,1 +1,39 @@
-<p>posts works!</p>
+<main  class="w-full text-center">
+
+  @if (postsSignal()) {
+    @for (post of postsSignal(); track $index) {
+
+
+
+
+      <div class="w-full max-w-6xl px-8 pt-12 pb-8 text-left flex flex-col border border-zinc-200 my-12 bg-white rounded-sm">
+        <section class="flex flex-col sm:flex-row justify-start items-center">
+          <div class="min-w-40 max-w-40 border border-zinc-400">
+
+              <img
+                [src]="post.profile_img_url"
+                [alt]="post.profile_img_url"
+                width="150"
+                height="150"
+                layout="responsive"
+              />
+
+          </div>
+          <div>
+            <h2 class="text-xl font-normal sm:mx-4 sm:my-1 mt-2">
+              <a [href]="post.link"> {{ post.headline }} </a>
+            </h2>
+            <h2 class="text-sm font-extralight text-zinc-500 sm:mx-4 my-1 italic">{{ post.content_snippet }}</h2>
+          </div>
+        </section>
+        <div class="font-light mt-4 text-zinc-800">{{ post.post }}</div>
+        <div class="text-xs font-light italic mt-8 text-zinc-400 text-right">
+          {{ post.create_date }} &nbsp; &nbsp; {{ post.create_date }}
+        </div>
+      </div>
+
+    }
+
+  }
+
+</main>

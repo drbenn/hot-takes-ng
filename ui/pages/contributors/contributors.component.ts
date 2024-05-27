@@ -11,8 +11,7 @@ import { DomSanitizer, SafeHtml } from '@angular/platform-browser';
   standalone: true,
   imports: [JsonPipe],
   templateUrl: './contributors.component.html',
-  styleUrl: './contributors.component.scss',
-  providers: [HttpClient]
+  styleUrl: './contributors.component.scss'
 })
 export class ContributorsComponent implements OnInit {
   protected contributorsSignal: WritableSignal<Contributor[] | undefined> = signal(undefined);
