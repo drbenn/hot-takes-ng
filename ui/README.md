@@ -1,23 +1,23 @@
 # Namecheap deployment
-1. If using a subpath for url, in index.html change/update base href to \<base href="https://danbennett.dev/angular-ssr-boilerplate">, otherwise, base href can remain  \<base href="/">.
+1. If using a subpath for url, in index.html change/update base href to \<base href="https://danbennett.dev/hot-takes-ng">, otherwise, base href can remain  \<base href="/">.
 2. ng build
-3. compress/archive the contents of dist/angular-ssr-boilerplate folder. So in root of zip there should be folders browser and server, and also have files 3rdpartylicense and prerenderedroutes.json.
+3. compress/archive the contents of dist/hot-takes-ng folder. So in root of zip there should be folders browser and server, and also have files 3rdpartylicense and prerenderedroutes.json.
 4. In namecheap, create node.js application
   - node.js version: 20.12.2
   - application mode: production
-  - application root: angular-ssr-boilerplate
-  - application url: danbennett.dev(dropdown)   angular-ssr-boilerplate (no '/' between dropdown and input for application url)
+  - application root: hot-takes-ng
+  - application url: danbennett.dev(dropdown)   hot-takes-ng (no '/' between dropdown and input for application url)
   - application startup file: main.js
-5. Upon creating app, stop the app. Creating the app creates the folder 'angular-ssr-boilerplate' in the file manager root directory that includes a basic main.js.
-6. In newly created root > 'angular-ssr-boilerplate' folder, upload:
-  - compressed contents of dist/angular-ssr-boilerplate folder
+5. Upon creating app, stop the app. Creating the app creates the folder 'hot-takes-ng' in the file manager root directory that includes a basic main.js.
+6. In newly created root > 'hot-takes-ng' folder, upload:
+  - compressed contents of dist/hot-takes-ng folder
   - main.js from root of application
   - package.json from root of application
   - ...JUST THOSE 3 FILES!!!
 7. Extract the compressed dist contents
 8. Go back to node.js application, may need to go in/out of node.js cPanel area to refresh package.json availability.
 9. Run Npm install in node.js web application
-10. Start App - Application should now be running at https://danbennett.dev/angular-ssr-boilerplate
+10. Start App - Application should now be running at https://danbennett.dev/hot-takes-ng
 
 # Spartan UI
 - Add primitive components with 'ng g @spartan-ng/cli:ui'

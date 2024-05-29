@@ -4,6 +4,11 @@
 @tailwind utilities;
 @import "primeicons/primeicons.css";
 
+html {
+  scroll-behavior: smooth;
+  overflow-y: scroll;
+}
+
 body {
   font-family: "Poppins", sans-serif;
 }

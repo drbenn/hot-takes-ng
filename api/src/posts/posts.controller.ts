@@ -1,4 +1,4 @@
-import { Controller, Get, HttpStatus, Res } from '@nestjs/common';
+import { Controller, Get, HttpStatus, Param, Res } from '@nestjs/common';
 import { Response } from 'express';
 import { PostsService } from './posts.service';
 import { PostDto } from './dto/post.dto';
@@ -9,10 +9,10 @@ export class PostsController {
   constructor(private postsService: PostsService) {}
 
   @Get()
-  async getAllContributors(
+  async getAllPosts(
       @Res() res: Response
     ) {
-      const posts: PostDto[] = await this.postsService.getAllPosts();
+      const posts: PostDto[] = await this.postsService.getAllPostsWithImgJoin();
 
       if (!posts) {
         // TODO: handle error
@@ -20,5 +20,20 @@ export class PostsController {
         res.status(HttpStatus.OK).send(JSON.stringify(posts));
       };
   };
+
+  @Get(':id')
+  async get20Posts(
+      @Res() res: Response,
+      @Param('id') id: number
+    ) {
+      const posts: PostDto[] = await this.postsService.getNext20LatestPosts(id);
+
+      if (!posts) {
+        // TODO: handle error
+      } else {
+        res.status(HttpStatus.OK).send(JSON.stringify(posts));
+      };
+  };
+
 
 }

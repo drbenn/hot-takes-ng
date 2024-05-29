@@ -1,4 +1,4 @@
-<main  class="w-full text-center">
+<main  class="w-full text-center animate-page-fade-in">
 
   @if (postsSignal()) {
     @for (post of postsSignal(); track $index) {
@@ -8,7 +8,7 @@
 
       <div class="w-full max-w-6xl px-8 pt-12 pb-8 text-left flex flex-col border border-zinc-200 my-12 bg-white rounded-sm">
         <section class="flex flex-col sm:flex-row justify-start items-center">
-          <div class="min-w-40 max-w-40 border border-zinc-400">
+          <div class="min-w-36 max-w-40 border border-zinc-400">
 
               <img
                 [src]="post.profile_img_url"
@@ -28,12 +28,20 @@
         </section>
         <div class="font-light mt-4 text-zinc-800">{{ post.post }}</div>
         <div class="text-xs font-light italic mt-8 text-zinc-400 text-right">
-          {{ post.create_date }} &nbsp; &nbsp; {{ post.create_date }}
+          {{ post.create_date | date:'medium' }} ----- {{ $index }}
         </div>
       </div>
 
     }
 
+    <button 
+      pButton 
+      pRipple
+      class="mt-16 mb-28 bg-zinc-600 px-10 py-3 text-zinc-50 text-xl font-extralight"
+      type="button"
+      label="Load More Posts"
+      (click)="fetchMorePosts()"
+    ></button>
   }
 
 </main>

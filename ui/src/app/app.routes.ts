@@ -9,13 +9,13 @@ export const routes: Routes = [
   {
     path: 'posts',
     loadComponent: () => 
-      import('../../pages/posts/posts.component')
+      import('./pages/posts/posts.component')
         .then(m => m.PostsComponent)
   },
   {
     path: 'contributors',
     loadComponent: () => 
-      import('../../pages/contributors/contributors.component')
+      import('./pages/contributors/contributors.component')
         .then(m => m.ContributorsComponent)
   }
 ];

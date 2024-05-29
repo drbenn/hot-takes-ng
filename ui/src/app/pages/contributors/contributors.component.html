@@ -1,11 +1,7 @@
-<main class="w-20rem text-center bg-red-200">
+<main class="w-20rem text-center animate-page-fade-in">
 
-  <h1 class="text-3xl font-bold underline">
-    Hello world!
-  </h1>
   @if (contributorsSignal()) {
     @for (contributor of contributorsSignal(); track $index) {
-      {{ contributor.name }}
       <div class="w-full px-8 py-16 text-left flex flex-col">
         <section class="flex flex-col sm:flex-row justify-start items-center">
           <div class="max-w-72">

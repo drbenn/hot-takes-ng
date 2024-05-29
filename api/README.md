@@ -1,16 +1,17 @@
 # Namecheap Deploy
 
-1. Update main.ts for url subpath - app.setGlobalPrefix('nest-10');
+1. Update main.ts for url subpath - app.setGlobalPrefix('hot-takes-api-v1');
 2. nest build
 3. create node app in namecheap
   - node.js version: 20.12.2
   - application mode: development or production
-  - application root: nest-10 (the same as global prefix in step 1)
-  - application url: danbennett.dev |  nest-10
+  - application root: hot-takes-api-v1 (the same as global prefix in step 1)
+  - application url: danbennett.dev |  hot-takes-api-v1
   - application startup file: dist/main.js
 4. compress dist folder from nest build
-5. Upload and extract dist zip and package.json to root-folder/nest-10 (this nest-10 folder is created when nodejs app is created)
+5. Upload and extract dist zip and package.json to root-folder/hot-takes-api-v1 (this hot-takes-api-v1 folder is created when nodejs app is created)
 6. Go back to nodejs application and run npm install
+7. Enter environment variables in node.js app
 7. start app and it should be running
 
 

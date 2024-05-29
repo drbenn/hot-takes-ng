@@ -1,12 +1,13 @@
+import { DatePipe } from '@angular/common';
 import { Component } from '@angular/core';
 
 @Component({
-  selector: 'app-footer',
+  selector: 'footer',
   standalone: true,
-  imports: [],
+  imports: [DatePipe],
   templateUrl: './footer.component.html',
   styleUrl: './footer.component.scss'
 })
 export class FooterComponent {
-
+  protected currentYear: Date = new Date();
 }

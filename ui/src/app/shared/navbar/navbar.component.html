@@ -1,5 +1,5 @@
 <header>
-  <nav class="bg-zinc-800 text-white h-24 w-full flex flex-row items-center px-6">
+  <nav class="bg-zinc-800 text-white h-24 flex flex-row items-center px-6">
 
     <div class="flex flex-grow flex-row">
 
@@ -8,23 +8,23 @@
             <img 
               src="https://utfs.io/f/51aac59b-9f8a-4f8d-82f1-c9fa1f6560f9-uh76c3.webp"
               alt="Hot Takes Fire Logo"
-              height=25
-              width=25
+              height=32
+              width=32
             />
           </a>
         </div>
-        <div class="text-xl font-bold">
+        <div class="text-3xl font-bold">
           <a routerLink="/" routerLinkActive="active">
             HOT TAKES
           </a>          
         </div>
     </div>
 
-    <div class="hidden sm:flex space-x-4">
-        <a routerLink="posts" routerLinkActive="active">
+    <div class="hidden sm:flex space-x-4 text-xl font-light">
+        <a routerLink="posts" routerLinkActive="active" class="text-white ease-in duration-100 transition-colors hover:text-zinc-200">
           Posts
         </a>
-        <a routerLink="contributors" routerLinkActive="active">
+        <a routerLink="contributors" routerLinkActive="active" class="text-white ease-in duration-100 transition-colors hover:text-zinc-200">
           Contributors
         </a>
     </div>
