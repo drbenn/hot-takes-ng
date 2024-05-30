@@ -6,13 +6,6 @@ export const routes: Routes = [
     pathMatch: 'full',
     redirectTo: 'posts',
   },
-  // {
-  //   path: '',
-  //   pathMatch: 'full',
-  //   loadComponent: () => 
-  //     import('./pages/posts/posts.component')
-  //       .then(m => m.PostsComponent)
-  // },
   {
     path: 'posts',
     pathMatch: 'full',

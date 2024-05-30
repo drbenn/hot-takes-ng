@@ -13,9 +13,7 @@ export class PostsApiService {
 
   constructor(private httpClient: HttpClient) {}
 
-  public getNext20Posts(postFetchCount: number): Observable<Post[]> {
-    console.log(this.apiUrl);
-    
+  public getNext25Posts(postFetchCount: number): Observable<Post[]> {
     return this.httpClient.get(`${this.apiUrl}/posts/${postFetchCount}`) as Observable<Post[]>;
   };
 

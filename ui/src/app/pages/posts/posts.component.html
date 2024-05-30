@@ -8,22 +8,27 @@
 
       <div class="w-full max-w-6xl px-8 py-12 text-left flex flex-col border border-zinc-200 my-12 bg-white rounded-sm">
         <section class="flex flex-col sm:flex-row justify-start items-center">
+
           <div class="min-w-36 max-w-40 border border-zinc-400">
 
               <img
                 [src]="post.profile_img_url"
                 [alt]="post.profile_img_url"
+                [title]="post.profile_img_url"
                 width="150"
                 height="150"
                 layout="responsive"
               />
-
+              <h3 class="text-center text-sm font-light mt-1 text-zinc-600">
+                {{ post.name }}
+              </h3>
           </div>
           <div>
+
             <h2 class="text-2xl font-normal sm:mx-4 sm:my-1 mt-2 text-yellow-400">
               <a [href]="post.link"> {{ post.headline }} </a>
             </h2>
-            <h2 class="text-sm font-thin text-zinc-500 sm:mx-4 my-1 italic">{{ post.content_snippet }}</h2>
+            <h2 class="text-sm font-extralight text-zinc-900 sm:mx-4 my-1 italic">{{ post.content_snippet }}</h2>
           </div>
         </section>
         <div class="text-lg font-light mt-10 text-zinc-600">{{ post.post }}</div>

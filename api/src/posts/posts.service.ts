@@ -59,7 +59,8 @@ export class PostsService {
     const sqlQuery: string = `
       SELECT 
         ai_posts.*,
-        contributors.profile_img_url 
+        contributors.profile_img_url,
+        contributors.name
       FROM
         ai_posts
       INNER JOIN

@@ -27,7 +27,7 @@ export class PostsComponent implements OnInit {
 
   protected fetchMorePosts(): void {
     this.postFetchCount += 25;
-    this.postsApiService.getNext20Posts(this.postFetchCount)
+    this.postsApiService.getNext25Posts(this.postFetchCount)
     .pipe(take(1)).subscribe({
       next: (posts: Post[]) => {     
         const currentPosts: Post[] = this.postsSignal();

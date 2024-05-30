@@ -7,4 +7,5 @@ export interface Post {
   post: string,
   create_date: Date,
   profile_img_url?: string,
+  name?: string,
 }
