@@ -17,6 +17,8 @@
         "build": {
           "builder": "@angular-devkit/build-angular:application",
           "options": {
+            "baseHref": "/hot-takes-ng/",
+            "deployUrl": "/hot-takes-ng/",
             "outputPath": "dist/ui",
             "index": "src/index.html",
             "browser": "src/main.ts",

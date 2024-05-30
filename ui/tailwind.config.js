@@ -22,7 +22,7 @@ module.exports = {
 
       },
       animation: {
-        "page-fade-in": "fade_in 120ms ease-in"
+        "page-fade-in": "fade_in 220ms ease-in"
       },
     },
   },

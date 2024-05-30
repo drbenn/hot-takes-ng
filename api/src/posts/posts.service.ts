@@ -73,7 +73,6 @@ export class PostsService {
       `;
     const dbQuery = await this.connection.query(sqlQuery);
     const results = Object.assign([{}], dbQuery[0]);
-    console.log(results);
     
     if (Object.keys(results[0]).length === 0 && results.length === 1) {
       return null;

@@ -1,6 +1,6 @@
 async function run() {
   try {
-    // Import the app from the ES module
+    // Import the app from the ES module created during ng build
     const server = await import("./server/server.mjs");
     const app = await server.app();
 

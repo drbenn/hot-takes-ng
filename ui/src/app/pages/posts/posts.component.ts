@@ -29,7 +29,7 @@ export class PostsComponent implements OnInit {
     this.postFetchCount += 25;
     this.postsApiService.getNext20Posts(this.postFetchCount)
     .pipe(take(1)).subscribe({
-      next: (posts: Post[]) => {      
+      next: (posts: Post[]) => {     
         const currentPosts: Post[] = this.postsSignal();
         const updatedPosts: Post[] = [...currentPosts, ...posts ]
         this.postsSignal.set(updatedPosts)
