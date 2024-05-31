@@ -27,6 +27,9 @@
         <a routerLink="contributors" routerLinkActive="active" class="text-white ease-in duration-100 transition-colors hover:text-zinc-200">
           Contributors
         </a>
+        <a routerLink="login" routerLinkActive="active" class="text-white ease-in duration-100 transition-colors hover:text-zinc-200">
+          Login
+        </a>
     </div>
 
     <div class="flex text-2xl text-white sm:hidden">
@@ -77,6 +80,14 @@
     (click)="sidebarVisible = false"
     >
       Contributors
+    </a>
+    <a routerLink="login" routerLinkActive="active" class="pl-5 py-1
+    border-l-2 border-zinc-200 hover:border-zinc-600
+    text-zinc-600 hover:text-zinc-900
+    ease-in duration-75 transition-colors"
+    (click)="sidebarVisible = false"
+    >
+      Login
     </a>
 
   </div>
