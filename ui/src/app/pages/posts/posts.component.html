@@ -39,14 +39,16 @@
 
     }
 
-    <button 
-      pButton 
-      pRipple
-      class="mt-16 mb-28 bg-zinc-600 px-10 py-3 text-zinc-50 text-xl font-extralight"
-      type="button"
-      label="Load More Posts"
-      (click)="fetchMorePosts()"
-    ></button>
+    @if (postsSignal().length) {
+      <button 
+        pButton 
+        pRipple
+        class="mt-16 mb-28 bg-zinc-600 px-10 py-3 text-zinc-50 text-xl font-extralight"
+        type="button"
+        label="Load More Posts"
+        (click)="fetchMorePosts()"
+      ></button>
+    }
   }
 
 </main>

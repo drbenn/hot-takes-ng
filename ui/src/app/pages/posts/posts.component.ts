@@ -26,7 +26,6 @@ export class PostsComponent implements OnInit {
   };
 
   protected fetchMorePosts(): void {
-    this.postFetchCount += 25;
     this.postsApiService.getNext25Posts(this.postFetchCount)
     .pipe(take(1)).subscribe({
       next: (posts: Post[]) => {     
@@ -36,6 +35,7 @@ export class PostsComponent implements OnInit {
       },
       error: (error: Error) => console.error('Error Fetching Posts: ', error)
     });
-  }
+    this.postFetchCount += 25;
+  };
 
 }
