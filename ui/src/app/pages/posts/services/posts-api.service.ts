@@ -9,7 +9,6 @@ import { environment } from '../../../../environments/environment';
 })
 export class PostsApiService {
   private apiUrl: string = environment.apiUrl;
-  // private apiUrl: string = 'http://localhost:3000/hot-takes-api-v1/posts';
 
   constructor(private httpClient: HttpClient) {}
 

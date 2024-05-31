@@ -8,7 +8,8 @@
             "baseHref": "/hot-takes/",
             "deployUrl": "/hot-takes/",
 3. Update environment.ts to use production api route
-4. ng build
+4. 'ng build --configuration production' to use production environment variables as replaced in angular.json configurations > production > file-replacements.
+  - otherwise use 'ng build' to build using development environment variables
 5. compress/archive the contents of dist/hot-takes/server folder. So in root of zip there should be folders server, and also have files 3rdpartylicense and prerenderedroutes.json.
 6. In namecheap, create node.js application
   - node.js version: 20.12.2
