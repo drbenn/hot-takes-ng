@@ -1,0 +1,83 @@
+<header>
+  <nav class="bg-zinc-800 text-white h-24 flex flex-row items-center px-6">
+
+    <div class="flex flex-grow flex-row">
+
+        <div class="mr-2">
+          <a routerLink="/" routerLinkActive="active">
+            <img 
+              src="https://utfs.io/f/51aac59b-9f8a-4f8d-82f1-c9fa1f6560f9-uh76c3.webp"
+              alt="Hot Takes Fire Logo"
+              height=32
+              width=32
+            />
+          </a>
+        </div>
+        <div class="text-3xl font-bold">
+          <a routerLink="" routerLinkActive="active">
+            HOT TAKES
+          </a>          
+        </div>
+    </div>
+
+    <div class="hidden sm:flex space-x-4 text-xl font-light">
+        <a routerLink="posts" routerLinkActive="active" class="text-white ease-in duration-100 transition-colors hover:text-zinc-200">
+          Posts
+        </a>
+        <a routerLink="contributors" routerLinkActive="active" class="text-white ease-in duration-100 transition-colors hover:text-zinc-200">
+          Contributors
+        </a>
+    </div>
+
+    <div class="flex text-2xl text-white sm:hidden">
+      <button (click)="sidebarVisible = true">
+        <i class="pi pi-bars" style="font-size: 1.75rem"></i>
+      </button>
+    </div>
+  </nav>
+</header>
+
+
+<p-sidebar [(visible)]="sidebarVisible" position="left">
+
+    <ng-template pTemplate="header">
+      <div class='w-full text-left flex flex-row'>
+        <div class="mr-2">
+          <a routerLink="/" routerLinkActive="active">
+            <img 
+              src="https://utfs.io/f/51aac59b-9f8a-4f8d-82f1-c9fa1f6560f9-uh76c3.webp"
+              alt="Hot Takes Fire Logo"
+              height=25
+              width=25
+            />
+          </a>
+        </div>
+        <div class="text-xl font-black">
+          <a routerLink="/" routerLinkActive="active">
+            HOT TAKES
+          </a>          
+        </div>
+      </div>
+  </ng-template>
+
+  <div class="flex flex-nowrap flex-col">
+
+    <a routerLink="posts" routerLinkActive="active" class="pl-5 py-1
+    border-l-2 border-zinc-200 hover:border-zinc-600
+    text-zinc-600 hover:text-zinc-900
+    ease-in duration-75 transition-colors"
+    (click)="sidebarVisible = false"
+    >
+      Posts
+    </a>
+    <a routerLink="contributors" routerLinkActive="active" class="pl-5 py-1
+    border-l-2 border-zinc-200 hover:border-zinc-600
+    text-zinc-600 hover:text-zinc-900
+    ease-in duration-75 transition-colors"
+    (click)="sidebarVisible = false"
+    >
+      Contributors
+    </a>
+
+  </div>
+</p-sidebar>
