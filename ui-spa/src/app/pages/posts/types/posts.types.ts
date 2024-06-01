@@ -8,4 +8,12 @@ export interface Post {
   create_date: Date,
   profile_img_url?: string,
   name?: string,
+  comments?: Comment[] | null;
+}
+
+export interface Comment {
+  post_id: number,
+  username: string,
+  comment: string,
+  create_date?: Date,
 }

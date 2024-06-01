@@ -1,7 +1,9 @@
+/* eslint-disable @typescript-eslint/no-unused-vars */
 import { Injectable } from '@nestjs/common';
 import { Connection } from 'mysql2';
 import { InjectClient } from 'nest-mysql';
 import { PostDto } from './dto/post.dto';
+import { CommentDto } from './dto/comment.dto';
 
 @Injectable()
 export class PostsService {
@@ -73,13 +75,57 @@ export class PostsService {
         ${skipAmount}, 25
       `;
     const dbQuery = await this.connection.query(sqlQuery);
-    const results = Object.assign([{}], dbQuery[0]);
+    const posts = Object.assign([{}], dbQuery[0]);
+    console.log(posts);
     
-    if (Object.keys(results[0]).length === 0 && results.length === 1) {
+    const postIdMax: number = posts[0].id;
+    const postIdMin: number = posts[posts.length - 1].id;
+
+    const comments: CommentDto[] = await this.getAllRelevantComments(postIdMin, postIdMax);
+    const postsWithComments: PostDto[] = this.addCommentsToPosts(posts, comments);
+    if (Object.keys(posts[0]).length === 0 && posts.length === 1) {
       return null;
     } else {
-      return results;
+      return postsWithComments;
     };
+  };
+
+  async postComment(commentDto: CommentDto): Promise<CommentDto> {
+    const sqlQuery: string = `INSERT INTO comments (post_id, username, comment) 
+      VALUES (
+        \'${commentDto.post_id}\',
+        \'${commentDto.commentor}\',
+        \'${commentDto.comment}\'
+      )`;
+    const dbQuery = await this.connection.query(sqlQuery);
+    const results = Object.assign([{}], dbQuery[0]);
+    return results;
+  };
+
+  async getAllRelevantComments(postIdMin: number, postIdMax: number): Promise<CommentDto[]> {
+    const sqlQuery: string = `SELECT * FROM 
+      comments
+    WHERE
+      post_id BETWEEN ${postIdMin} AND ${postIdMax}
+    ORDER BY 
+      create_date DESC`;
+    const dbQuery = await this.connection.query(sqlQuery);
+    const results = Object.assign([{}], dbQuery[0]);   
+    return results;
+  };
+
+  private addCommentsToPosts(posts: PostDto[], comments: CommentDto[]): PostDto[] {
+    posts.forEach((post: PostDto) => {
+      const relatedComments: CommentDto[] = comments.filter((comment: CommentDto) => comment.post_id === post.id);     
+      if (!relatedComments) {
+        post.comments = null;
+      } else {
+        post.comments = [...relatedComments];
+      };
+    });
+
+    
+    return posts;
   };
 
 }

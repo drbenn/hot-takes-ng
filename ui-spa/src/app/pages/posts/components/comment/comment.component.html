@@ -1,0 +1,47 @@
+
+@if (!isUserLoggedIn) {
+  <div class="my-2 font-light">
+    <span (click)="loginUser()" 
+    class="text-amber-300 ease-in duration-100 transition-colors hover:text-amber-400 hover:underline cursor-pointer">
+    Login</span> to post a comment.
+  </div>
+}
+
+@if (isUserLoggedIn && userName) {
+  <p-floatLabel>
+    <textarea 
+      id="float-input" 
+      rows="2" 
+      class="w-full border border-zinc-200 py-2 bg-white rounded-sm"
+      pInputTextarea
+      [(ngModel)]="comment"
+    >
+    </textarea>
+    <label for="float-input">Comment</label>
+  </p-floatLabel>
+  <button 
+    pButton 
+    pRipple
+    class="bg-zinc-600 px-5 py-2 my-2 text-zinc-50 font-thin text-sm"
+    type="button"
+    label="Submit Comment"
+    (click)="submitComment()"
+    [disabled]="comment.length === 0 || comment.length > 248"
+  ></button>
+}
+
+@if (commentList.length) {
+  <section class="bg-zinc-100 py-1 px-6">
+    @for (comment of comments; track comment.create_date) {
+      <div>
+        <div class="mt-4 text-sm font-extralight italic">
+          {{comment.username}} - {{ comment.create_date | date: 'short' }} 
+        </div>
+        <div class="my-3 font-light text-zinc-600">
+          {{ comment.comment }}
+        </div>
+      </div>
+      <hr>
+    }
+  </section>
+}

@@ -35,8 +35,10 @@
         <div class="text-xs font-light italic mt-8 text-zinc-400 text-right">
           {{ post.create_date | date:'medium' }}
         </div>
-      </div>
 
+        <comment [postId]="post.id" [comments]="post.comments"></comment>
+
+      </div>
     }
 
     @if (postsSignal().length) {
@@ -50,5 +52,6 @@
       ></button>
     }
   }
+
 
 </main>

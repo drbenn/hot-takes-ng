@@ -19,12 +19,5 @@ export const routes: Routes = [
     loadComponent: () => 
       import('./pages/contributors/contributors.component')
         .then(m => m.ContributorsComponent)
-  },
-  {
-    path: 'login',
-    pathMatch: 'full',
-    loadComponent: () => 
-      import('./pages/login/login.component')
-        .then(m => m.LoginComponent)
   }
 ]

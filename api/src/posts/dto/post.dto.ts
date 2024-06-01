@@ -1,3 +1,5 @@
+import { CommentDto } from "./comment.dto";
+
 export class PostDto {
   id: number;
   contributor_id: number;
@@ -8,4 +10,5 @@ export class PostDto {
   create_date: Date;
   profile_img_url?: string;
   name?: string;
+  comments?: CommentDto[] | null
 }

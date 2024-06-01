@@ -4,13 +4,14 @@ import { PostsApiService } from './services/posts-api.service';
 import { take } from 'rxjs';
 import { CommonModule, DatePipe } from '@angular/common';
 import { ButtonModule } from 'primeng/button';
+import { CommentComponent } from "./components/comment/comment.component";
 
 @Component({
-  selector: 'posts',
-  standalone: true,
-  imports: [CommonModule, DatePipe, ButtonModule],
-  templateUrl: './posts.component.html',
-  styleUrl: './posts.component.scss'
+    selector: 'posts',
+    standalone: true,
+    templateUrl: './posts.component.html',
+    styleUrl: './posts.component.scss',
+    imports: [CommonModule, DatePipe, ButtonModule, CommentComponent]
 })
 export class PostsComponent implements OnInit {
   protected postsSignal: WritableSignal<Post[]> = signal([]);
@@ -28,10 +29,10 @@ export class PostsComponent implements OnInit {
   protected fetchMorePosts(): void {
     this.postsApiService.getNext25Posts(this.postFetchCount)
     .pipe(take(1)).subscribe({
-      next: (posts: Post[]) => {     
+      next: (posts: Post[]) => {
         const currentPosts: Post[] = this.postsSignal();
-        const updatedPosts: Post[] = [...currentPosts, ...posts ]
-        this.postsSignal.set(updatedPosts)
+        const updatedPosts: Post[] = [...currentPosts, ...posts ];
+        this.postsSignal.set(updatedPosts);
       },
       error: (error: Error) => console.error('Error Fetching Posts: ', error)
     });
