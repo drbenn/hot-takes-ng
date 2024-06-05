@@ -57,7 +57,7 @@ export class PostsService {
     };
   };
 
-  async getNext20LatestPosts(skipAmount: number): Promise<PostDto[]> {
+  async getNext25LatestPosts(skipAmount: number): Promise<PostDto[]> {
     const sqlQuery: string = `
       SELECT 
         ai_posts.*,
@@ -76,8 +76,41 @@ export class PostsService {
       `;
     const dbQuery = await this.connection.query(sqlQuery);
     const posts = Object.assign([{}], dbQuery[0]);
-    console.log(posts);
-    
+
+    const postIdMax: number = posts[0].id;
+    const postIdMin: number = posts[posts.length - 1].id;
+
+    const comments: CommentDto[] = await this.getAllRelevantComments(postIdMin, postIdMax);
+    const postsWithComments: PostDto[] = this.addCommentsToPosts(posts, comments);
+    if (Object.keys(posts[0]).length === 0 && posts.length === 1) {
+      return null;
+    } else {
+      return postsWithComments;
+    };
+  };
+
+  async getNext25LatestPostsForContributor(skipAmount: number, contributorId: number): Promise<PostDto[]> {
+    const sqlQuery: string = `
+      SELECT 
+        ai_posts.*,
+        contributors.profile_img_url,
+        contributors.name
+      FROM
+        ai_posts
+      INNER JOIN
+        contributors
+      ON
+        ai_posts.contributor_id = contributors.id
+      WHERE
+        ai_posts.contributor_id = ${contributorId}
+      ORDER BY
+        create_date DESC
+      LIMIT
+        ${skipAmount}, 25
+      `;
+    const dbQuery = await this.connection.query(sqlQuery);
+    const posts = Object.assign([{}], dbQuery[0]);
+
     const postIdMax: number = posts[0].id;
     const postIdMin: number = posts[posts.length - 1].id;
 
@@ -123,8 +156,6 @@ export class PostsService {
         post.comments = [...relatedComments];
       };
     });
-
-    
     return posts;
   };
 

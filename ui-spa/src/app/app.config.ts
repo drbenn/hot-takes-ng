@@ -17,7 +17,7 @@ export const appConfig: ApplicationConfig = {
       domain: 'dev-z4yw1wktm2qy2j0f.us.auth0.com',
       clientId: '7IamzF3s4Iq3LxtYhyRj9Cx1GdKLF4wP',
       authorizationParams: {
-        redirect_uri: window.location.origin
+        redirect_uri: window.location.origin + '/hot-takes'
       }
     }),
   ]

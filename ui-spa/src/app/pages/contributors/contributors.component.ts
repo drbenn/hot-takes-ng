@@ -1,10 +1,11 @@
 import { HttpClient } from '@angular/common/http';
 import { Component, OnInit, WritableSignal, signal } from '@angular/core';
 import { ContributorsApiService } from './services/contributors-api.service';
-import { take } from 'rxjs';
+import { delay, finalize, take } from 'rxjs';
 import { Contributor } from './types/contributors.types';
 import { JsonPipe } from '@angular/common';
 import { DomSanitizer, SafeHtml } from '@angular/platform-browser';
+import { Router } from '@angular/router';
 
 @Component({
   selector: 'app-contributors',
@@ -14,17 +15,20 @@ import { DomSanitizer, SafeHtml } from '@angular/platform-browser';
   styleUrl: './contributors.component.scss'
 })
 export class ContributorsComponent implements OnInit {
+  protected isLoading: boolean = false;
   protected contributorsSignal: WritableSignal<Contributor[] | undefined> = signal(undefined);
   protected sanitizedBiographies: SafeHtml[] = [];
 
   constructor(
     private contributorsApiService: ContributorsApiService,
-    private sanitizer: DomSanitizer
+    private sanitizer: DomSanitizer,
+    private router: Router
   ) {}
 
   ngOnInit(): void {
+    this.isLoading = true;
     this.contributorsApiService.getAllContributors()
-    .pipe(take(1)).subscribe({
+    .pipe(take(1), delay(500), finalize(() => this.isLoading = false)).subscribe({
       next: (contributors: Contributor[]) => {
         const biographylessContributors: Contributor[] = [];
         contributors.forEach((contributor: Contributor) => {
@@ -44,7 +48,11 @@ export class ContributorsComponent implements OnInit {
     });
   };
 
-  sanitizeHtml(html: string): SafeHtml {
+  protected sanitizeHtml(html: string): SafeHtml {
     return this.sanitizer.bypassSecurityTrustHtml(html);
-  }
+  };
+
+  protected navigateToContributorPosts(contributorId: number) {
+    this.router.navigateByUrl(`/contributor-posts/${contributorId}`);
+  };
 }

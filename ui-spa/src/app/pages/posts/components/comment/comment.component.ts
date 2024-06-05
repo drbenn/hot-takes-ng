@@ -1,7 +1,7 @@
 import { ChangeDetectorRef, Component, Input, OnInit, WritableSignal, signal } from '@angular/core';
 import { InputTextareaModule } from 'primeng/inputtextarea';
 import { FloatLabelModule } from 'primeng/floatlabel';
-import { AuthService } from '@auth0/auth0-angular';
+import { AuthService, User } from '@auth0/auth0-angular';
 import { ButtonModule } from 'primeng/button';
 import { PostsApiService } from '../../services/posts-api.service';
 import { FormsModule } from '@angular/forms';
@@ -48,8 +48,11 @@ export class CommentComponent implements OnInit {
   )};
 
   private getUsername() {
-    this.auth.user$.subscribe((user) => {
-      this.userName = user?.name;
+    this.auth.user$.subscribe((user: User | null | undefined) => {
+      console.log('logged in user subscriber info: ', user);
+      if (user) {
+        this.userName = user.name;
+      };
     });
   };
 
@@ -70,9 +73,8 @@ export class CommentComponent implements OnInit {
   };
 
   private updateComments(newComment: Comment) {
-    const currentComments: Comment[] = this.commentList;
-    const updatedComments: Comment[] = [...currentComments, newComment ];
-    this.commentList = updatedComments;
+    newComment['create_date'] = new Date();
+    this.commentList.unshift(newComment);
     this.cdr.detectChanges();  
   };
   

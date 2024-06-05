@@ -4,10 +4,18 @@
     CONTRIBUTOR BIOGRAPHIES
   </div>
 
+  @if (isLoading) {
+    <div class="my-16">
+      <i class="pi pi-spin pi-spinner" style="font-size: 2.5rem; color: #eec137"></i>
+      <br>
+      Loading...
+    </div>
+  }
+
   @if (contributorsSignal()) {
     @for (contributor of contributorsSignal(); track $index) {
       <div class="w-full px-8 py-16 text-left flex flex-col px-8 border border-zinc-200 mb-12 bg-white rounded-sm">
-        <section class="flex flex-col sm:flex-row justify-start items-center">
+        <section (click)="navigateToContributorPosts(contributor.id)" class="flex flex-col sm:flex-row justify-start items-center cursor-pointer hover:bg-zinc-100 ease-in duration-100 transition-colors">
           <div class="max-w-72">
             <img
               [src]="contributor.profile_img_url"

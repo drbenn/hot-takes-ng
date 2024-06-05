@@ -3,10 +3,13 @@
   @if (postsSignal()) {
     @for (post of postsSignal(); track $index) {
 
+
+
+
       <div class="w-full max-w-6xl px-8 py-12 text-left flex flex-col border border-zinc-200 my-12 bg-white rounded-sm">
         <section class="flex flex-col sm:flex-row justify-start items-center">
 
-          <div (click)="navigateToContributorPosts(post.contributor_id)" class="min-w-36 max-w-40 border border-zinc-400 cursor-pointer">
+          <div class="min-w-36 max-w-40 border border-zinc-400">
 
               <img
                 [src]="post.profile_img_url"
@@ -61,7 +64,7 @@
         class="mt-16 mb-28 bg-zinc-600 px-10 py-3 text-zinc-50 text-xl font-extralight"
         type="button"
         label="Load More Posts"
-        (click)="fetchMorePosts()"
+        (click)="fetchMorePostsByContributor()"
       ></button>
     }
   }
