@@ -1,6 +1,6 @@
 export class CommentDto {
   post_id: number;
-  commentor: string;
+  username: string;
   comment: string;
   create_date: Date;
 }

@@ -127,7 +127,7 @@ export class PostsService {
     const sqlQuery: string = `INSERT INTO comments (post_id, username, comment) 
       VALUES (
         \'${commentDto.post_id}\',
-        \'${commentDto.commentor}\',
+        \'${commentDto.username}\',
         \'${commentDto.comment}\'
       )`;
     const dbQuery = await this.connection.query(sqlQuery);
